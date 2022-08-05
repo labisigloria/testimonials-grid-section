@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/labisigloria/testimonials-grid-section.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://frontendchallenge-testimonialsgridsection.netlify.app.com)
 
 
 ### Built with
